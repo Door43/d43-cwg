@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cwg:home|Door43 (cwg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cwg|d43-cwg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cwg/archive/master.zip|d43-cwg.zip]]
+
+**Recent Changes**
+{{changes>ns = cwg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cwg|Ethnologue data]]
+
